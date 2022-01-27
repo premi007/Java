@@ -35,6 +35,6 @@ public class AgesG
 	       // int n = sc.nextInt();
 	        //
 	        //int[] a = {10, 20, 30, 40, 50};
-	        Ages(a, ages);
+	        System.out.println(Ages(a, ages));
 	    }
 }
